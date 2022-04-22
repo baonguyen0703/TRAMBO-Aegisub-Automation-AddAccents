@@ -3,7 +3,7 @@ script_description="Add accents to characters"
 script_author="TRAMBO"
 script_version="1.0"
 
-include("karaskel.lua") -- karaskel.lua written by Niels Martin Hansen and Rodrigo Braz Monteiro
+include("unicode.lua")
 
 --Main 
 function main(sub, sel, act)
